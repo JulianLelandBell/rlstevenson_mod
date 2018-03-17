@@ -1,10 +1,10 @@
 ---
 layout: project
-title: Engineers' Hookah
+title: timingbelt
 subtitle: a hookah for the thinking man
 rollover-text: Engineer's Hookah
 project-type: engineering
-cover-img: IMG-5082.JPG
+cover-img: IMG_4571.jpg
 img:
  1: HookahHandle.png
  2: HookahBowl.png
