@@ -1,11 +1,8 @@
-- text: ExchangeRate-API
+- text: Projects
   url: /
 
-- text: Jekyll
-  url: https://jekyllrb.com
+- text: Blog
+  url: /blog/
 
-- text: Bootstrap
-  url: http://getbootstrap.com
-
-- text: Hyde
-  url: https://github.com/poole/hyde
+- text: About
+  url: /about/

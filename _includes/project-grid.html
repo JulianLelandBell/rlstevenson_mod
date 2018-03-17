@@ -1,0 +1,11 @@
+<!-- Project grid -->
+<div class="row text-center text-lg-left">
+	{% for project in site.projects %}
+		<!-- Project grid item -->
+		<div class="col-lg-3 col-md-4 col-xs-6">
+        	<a href={{ project.url }} class="d-block mb-4 h-100">
+            	<img class="img-thumbnail" src="/assets/{{ project.cover-img }}" alt="">
+        	</a>
+    	</div>
+    {% endfor %}
+</div>

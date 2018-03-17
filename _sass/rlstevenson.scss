@@ -87,8 +87,9 @@ p {
 	text-align: left;
 }
 .sidebar .sidebar-content {
-	width:85%;
-	margin:0 auto;
+	width:100%;
+	margin: auto;
+	text-align: center;
 }
 .sidebar .sidebar-freetext {
 	margin-top: 1.5em;
@@ -124,6 +125,9 @@ p {
 	.sidebar .sidebar-content {
 		width:75%;
 		margin:0 auto;
+		height: 80%;
+		overflow-y: auto;
+		text-align: left;
 	}
 }
 @media (max-width: 992px) {
@@ -159,6 +163,29 @@ p.attr {
 
 /* THEMES */
 
+/* YOUR SCHEME HERE */
+.scheme-jlb {
+	/* Fonts can be changed here */
+	font-family: "Helvetica Neue"
+}
+
+.scheme-jlb .sidebar {
+	background-color: #333;
+	color: #fffef9;
+}
+.scheme-jlb .sidebar h1 {
+	color: #fffef9;
+}
+.scheme-jlb .sidebar a {
+	color: #fffef9;
+}
+.scheme-jlb .content a {
+	background-color: #fffef9;
+	color: #333;
+}
+.scheme-jlb .post .post-heading span {
+	color: #9a9a9a;
+}
 
 /* Gulf Racing Scheme */
 .scheme-gulfracing {
