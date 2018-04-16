@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: JulianLelandBell
 github_username:  JulianLelandBell
-colorscheme: scheme-jlb # Color schemes defined in rlstevenson.scss
+colorscheme: scheme-jlb-invert # Color schemes defined in rlstevenson.scss
 paginate: 3
 paginate_path: "/blog/page:num/"
 
