@@ -1,15 +1,21 @@
 ---
 layout: project
-title: timingbelt
+title: Engineers' Hookah
+permalink: /projects/hookah/
 subtitle: a hookah for the thinking man
 rollover-text: Engineer's Hookah
 project-type: engineering
-cover-img: IMG_4571.jpg
-img:
- 1: HookahHandle.png
- 2: HookahBowl.png
- 3: HookahNeckJoint.png
+cover-img: FullHookah.png
+images:
+ - image_path: /projects/hookah/FullHookah.png
+   caption:
+ - image_path: /projects/hookah/IMG_2081.png
+   caption:
+ - image_path: /projects/hookah/IMG_2087.png
+   caption:
+
 ---
+
 In my sophomore year of high school, while living in Rome, I was introduced to the hookah. Although I’m not a smoker otherwise (only the occasional cigar, on special occasions), I love hookah. It’s a naturally social activity that chills people out, and isn’t an end to itself – you smoke while you talk, not talk while you smoke.
 
 Fast-forward 3 years, to the spring of my freshman year of college. I’d been lusting after a hookah for some time, although I’d always been turned off by the obvious low quality of the materials in commercial hookahs – unknown metals, attached with shady solders. Furthermore, I really didn’t like the aesthetics of commercial hookahs, which are almost uniformly elaborate and classically styled. I had completed the machine shop safety course at Swarthmore in the fall, and had been working as a machinist’s assistant since. I figured I might try making my own hookah, as an interesting design and fabrication project.
@@ -25,4 +31,4 @@ Thus far, the hookah has been wildly successful, and has been a fixture among my
 No welding: Although the welds in this project have remained airtight thus far, they are extremely rough. Furthermore, the metallurgical changes caused by the welding (I had neither the right tools nor training to be welding stainless steel) have led to mild corrosion at the weld – not ideal for a hookah that’s supposed to be as inert and “clean” as possible. Future revisions will use press-fit or threaded components instead of welding.
 Bowl redesign: Although the cast iron bowl fits the modularity and non-reactivity requirements of this project, its thermal mass is too high – it’s extremely slow to heat up, and when it does, is prone to burning the tobacco. In future revisions, I would either replace the cast iron with a ceramic bowl, or make it significantly thinner.
 Reduction of weight: One of the greatest problems with this hookah is its significant weight and height – it’s hard to carry around, and tends to be top-heavy and tip-prone. Future revisions will be both lighter and have a lower center of gravity.
-For more information about this project, see the attached design files
+For more information about this project, see the attached design files.
