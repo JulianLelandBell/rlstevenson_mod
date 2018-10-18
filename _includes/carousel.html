@@ -24,13 +24,13 @@ From: https://github.com/lentzi90/jekyll-dark-orange
   <div class="carousel-inner" role="listbox">
   {% for image in page.images %}
     <div class="item {% if forloop.first %}active{% endif %}" style="background-image: url({{ site.baseurl | prepend:site.url}}/{{image.image_path}});">
-      <!--
+    <!--
       <img alt="Carousel picture"
         src="{{ site.baseurl | prepend:site.url}}/{{image.image_path}}">
-      -->
       {% if image.caption %}
         <div class="carousel-caption">{{ image.caption }}</div>
       {% endif %}
+      -->
     </div>
   {% endfor %}
   </div>
