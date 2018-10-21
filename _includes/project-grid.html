@@ -1,5 +1,6 @@
 <!-- Project grid -->
-	{% for project in site.projects %}
+	{% assign projects = site.projects | sort: 'project-priority' | reverse %}
+	{% for project in projects %}
 		<!-- Project grid item -->
 		<div class="col-sm-4 col-xs-12 portfolio-item">
 			<!--<div class="img-container">-->
