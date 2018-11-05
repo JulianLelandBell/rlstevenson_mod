@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another Post Example
+title: Another Post - Examples of Markdown Formatting
 author: ExchangeRate-API
 date: 2016-09-06
 ---
